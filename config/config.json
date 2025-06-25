@@ -1,0 +1,11 @@
+{
+    "twitter_accounts_file_id": "",
+    "hetzner_api_token": "",
+    "server_type": "",
+    "image_id": "",
+    "ssh_key_name": "",
+    "location": "",
+    "ssh_path": "",
+    "source_path": "",
+    "destination_path": ""
+}
